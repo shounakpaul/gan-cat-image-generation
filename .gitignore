@@ -1,0 +1,10 @@
+__pycache__
+.venv
+.vscode
+*.pyc
+output
+output_models
+research/output_models
+research/output
+research/gan_training.avi
+dataset
